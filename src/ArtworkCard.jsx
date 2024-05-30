@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import './ArtworkCard.css';
+import './ArtworkCardl.css';
 
 const ArtworkCard = ({ artwork, delay }) => {
   // Prop validation using PropTypes

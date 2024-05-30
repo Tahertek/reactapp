@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import ArtworkList from './ArtworkList';
-import ArtworkDetails from './ArtworkDetails';
+import ArtworkDetails from './ArtworkDetail';
 import './App.css';
 
 function App() {

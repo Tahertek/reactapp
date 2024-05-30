@@ -1,11 +1,11 @@
 .ArtworkCard {
-    background-color: #fff;
+    background-color: #595959;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     padding: 1rem;
     margin: 1rem;
     transition: transform 0.3s ease-out, opacity 0.3s ease-out;
-    opacity: 0;
+    opacity: 1;
     transform: translateY(50px);
     animation: fadeIn 0.5s ease-out forwards;
   }

@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import './ArtworkDetails.css';
+import './ArtworkDetail.css';
 
 const ArtworkDetails = ({ artwork }) => {
   // Prop validation using PropTypes
